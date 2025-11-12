@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Tzi Yao's portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chew Tzi Yao"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chew Tzi Yao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "I’m Chew Tzi Yao, a 13-year-old aspiring developer with a love for gaming and coding. My curiosity drives me to explore new technologies, and I’m always up for a challenge. With experience in C++, C#, and HTML, I enjoy creating fun projects, whether it's building games or designing websites. When I’m not coding, you can find me gaming or learning about smart ways to manage money. I’m excited to keep growing and learning as I dive deeper into the world of tech!"
+  location         : "Penang, Malaysia"
+  employer         : "Chung Ling Private High School"
   uri              : # URL
   email            : "none@example.org" 
 
