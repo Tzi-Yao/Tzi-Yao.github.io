@@ -8,37 +8,37 @@ redirect_from:
 ---
 
 About Me
-Hi, I'm Chew Tzi Yao! I'm 13 years old, and I have a passion for technology, gaming, and coding. I love learning new things, especially when it comes to programming and building cool projects. When I'm not coding, you can find me gaming or figuring out new ways to spend money smartly. I enjoy solving problems and creating things that are both fun and useful.
+Hi, I'm Chew Tzi Yao! I'm 13 years old and passionate about photography, gaming, and smart money management. I love using photography to capture unique moments and express creativity. Outside of photography, I’m an avid gamer who enjoys exploring new worlds and understanding what makes games so fun. I also like learning how to spend money wisely, whether it’s finding good deals or saving up for things I really want. I’m always looking for ways to grow in my interests and develop new skills.
 
 Skills
 
-C++: I have experience writing basic and intermediate programs, including games and small projects.
+Photography: I have experience in capturing various types of photos, from landscapes to portraits. I’m constantly experimenting with different camera settings and editing techniques to improve my work.
 
-HTML: I'm comfortable creating and designing websites with HTML, and I’ve learned how to structure pages to look clean and functional.
+Gaming: I'm a passionate gamer and enjoy analyzing game mechanics, storytelling, and design to understand what makes a game enjoyable. I also have experience with basic game development.
 
-C#: I’m getting the hang of C# for game development, and I’ve worked with Unity to create some small games.
+Money Management: I enjoy learning about budgeting, finding great deals, and saving for future goals. I like exploring ways to make the most out of my money.
 
 Hobbies
 
-Gaming: I'm passionate about video games and enjoy learning how they are made. I also love analyzing games from a developer's perspective to understand what makes them fun and engaging.
+Photography: I love taking photos of nature, people, and everyday scenes. I focus on capturing emotions and moments that tell a story.
 
-Coding: I'm constantly experimenting with new coding languages and tools to improve my skills. I have worked on small games and websites, and I'm always learning new things through online resources and tutorials.
+Gaming: I’m really into gaming and enjoy both single-player and multiplayer experiences. I love to dive deep into the mechanics of the games I play and analyze what makes them work.
 
-Spending Money: I like finding good deals and managing money well. It's fun to track purchases and save for bigger things I want.
+Spending Money: I have an interest in smart spending, saving, and finding good deals. I like exploring different ways to make purchases that are both fun and smart.
 
 Experience & Projects
 
-Basic C++ Game
-Description: A simple text-based game I built using C++ where the user has to guess a number between 1 and 100.
-Skills Used: C++ (loops, conditionals, random number generation)
+Photography Portfolio
+Description: A collection of my favorite photos, showcasing different types of photography including landscapes, portraits, and action shots.
+Skills Used: Photography, photo editing, storytelling through images.
 
-Personal Website (HTML)
-Description: A personal website I created to showcase my skills and projects. I used HTML and CSS to make it clean and easy to navigate.
-Skills Used: HTML, CSS, web design
+Gaming Blog
+Description: A blog where I write about my experiences with different video games, analyzing game mechanics, stories, and design elements.
+Skills Used: Writing, gaming analysis, content creation.
 
-Unity Game (C#)
-Description: A basic 2D platformer I built using Unity and C#. It includes a player character that can jump, collect coins, and avoid obstacles.
-Skills Used: Unity, C#, game design
+Budgeting and Money Management
+Description: A personal project where I track my spending and savings, learning to make smart financial decisions.
+Skills Used: Budgeting, goal setting, money management.
 
 Goals
-I'm constantly looking to improve my coding skills and expand my knowledge. In the future, I want to work on more advanced game development projects, learn new programming languages, and maybe even start developing apps or websites for others.
+I’m looking forward to continuing my photography journey and developing my skills in shooting and editing. I also want to explore more about game design and development and learn how to turn my passion for gaming into something creative. In the future, I’d love to create a photography portfolio website and maybe even share my gaming experiences and insights with others
